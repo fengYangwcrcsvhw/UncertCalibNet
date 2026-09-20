@@ -6,11 +6,11 @@ Repository for the paper:
 
 ## Code Availability
 
-**Code coming soon!**
+The code is not yet publicly available.
 
-The implementation will be released in this repository soon.
+The implementation will be released in this repository upon acceptance of the paper.
 
-Thank you for your interest and patience!
+Thank you for your interest!
 
 ## Updates
 
